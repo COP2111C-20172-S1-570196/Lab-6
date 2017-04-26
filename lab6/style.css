@@ -1,0 +1,45 @@
+body header {
+	text-align: center;
+	background-color: #EEF4D4;
+	font-size: 100px;
+}
+#currencies {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: #000000;
+	color: #DAEFB3;
+}
+#amount {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: #000000;
+	color: #DAEFB3;
+}
+#curry {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: #000000;
+	color: #DAEFB3;
+}
+#conDisplay {
+	background-color: #EA9E8D;
+}
+#play {
+	background-color: #FFFFFF;
+}
+
+
+
+
+html {
+	background-color: #DAEFB3;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+#display {
+	background-color: #EA9E8D;
+}
